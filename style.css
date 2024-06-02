@@ -1,0 +1,23 @@
+body {
+    background-color: #111;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#banner {
+    color: yellow;
+    font-size: 1.6rem;
+}
+#clock {
+    background-color: yellow;
+    height: 40px;
+    width: 170px;
+    border-radius: 50px;
+    color: #111;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 10px;
+    font-size: 2rem;
+}
